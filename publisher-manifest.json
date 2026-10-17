@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "bb3adb62e3914476da141024",
+  "owner": "rtparg",
+  "repo": "page-3893c8641f68ca84513c9840",
+  "title": "pokong",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3893c8641f68ca84513c9840",
+      "a": "pokong",
+      "b": "",
+      "entity": "pokong",
+      "brand": "pokong",
+      "separator": "",
+      "path": "index.html",
+      "hash": "04257aaf37a2a40c62a33cc859efe707b54d26a61e529beb067f08e9b7ec9dbe",
+      "content": {
+        "keyword1": "pokong",
+        "keyword2": "",
+        "primary_entity": "pokong",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "pokong 是一份写给网络探索者的连接手记。我们用专栏式的笔触记录线路、流量与设备之间的关系，并提供从基础到团队的三档订阅方案，供你按节奏挑选。",
+          "AI_DESCRIPTION": "pokong 是一份写给网络探索者的连接手记。我们用专栏式的笔触记录线路、流量与设备之间的关系，并提供从基础到团队的三档订阅方案，供你按节奏挑选。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--wine:#5b1a26;--wine-deep:#3d1019;--ivory:#f6ede0;--ivory-dim:#d8c7b0;--ink:#2a1620;--rule:#7a2c3c}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:var(--ivory);color:var(--ink);font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.7;font-size:17px}\nbody{padding-bottom:80px;min-height:100vh}\nmain{width:100%;overflow-x:hidden}\n\n/* hero poster */\n.hero{min-height:100vh;background:var(--wine);color:var(--ivory);display:flex;flex-direction:column;justify-content:flex-end;padding:8vh 6vw 6vh;position:relative}\n.hero .kicker{font-family:\"Helvetica Neue\",Arial,sans-serif;letter-spacing:.4em;font-size:12px;color:var(--ivory-dim);text-transform:uppercase;margin-bottom:4vh}\n.hero h1{font-size:clamp(72px,22vw,320px);line-height:.85;font-weight:900;letter-spacing:-.04em;margin-bottom:3vh}\n.hero h1 .dot{color:var(--ivory-dim)}\n.hero .lede{max-width:46ch;font-size:clamp(18px,2.4vw,26px);color:var(--ivory-dim);margin-left:auto;text-align:right;border-top:1px solid rgba(246,237,224,.25);padding-top:18px}\n\n/* section common */\nsection{padding:12vh 6vw;border-bottom:1px solid var(--ivory-dim)}\n.sec-head{display:flex;align-items:baseline;gap:18px;margin-bottom:6vh;flex-wrap:wrap}\n.sec-head h2{font-size:clamp(30px,5vw,56px);letter-spacing:-.02em;color:var(--wine)}\n.sec-head .meta{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--wine-deep);opacity:.7}\n\n/* essay */\n.essay{max-width:68ch;margin:0 auto;font-size:clamp(18px,2.2vw,21px)}\n.essay p{margin-bottom:1.6em;text-indent:2em}\n.essay p:first-of-type{text-indent:0}\n.essay .pull{margin:2em 0;padding-left:18px;border-left:3px solid var(--wine);font-style:italic;color:var(--wine-deep);font-size:1.12em;text-indent:0}\n\n/* staged plans */\n.plans{background:#efe4d2}\n.plans-track{display:grid;gap:0}\n.plan{display:grid;grid-template-columns:80px 1fr 1fr;border-left:6px solid var(--ivory-dim);background:var(--ivory);padding:28px 30px;margin-left:clamp(0px,8vw,140px);margin-bottom:-1px;position:relative}\n.plan:nth-child(1){border-left-color:var(--ivory-dim);margin-right:clamp(0px,12vw,220px)}\n.plan:nth-child(2){border-left-color:var(--wine);background:#f3ead9;margin-right:clamp(0px,6vw,120px)}\n.plan:nth-child(3){border-left-color:var(--wine-deep);margin-right:0;background:var(--wine);color:var(--ivory)}\n.plan .no{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:13px;letter-spacing:.2em;color:var(--wine);opacity:.7}\n.plan:nth-child(3) .no{color:var(--ivory-dim)}\n.plan h3{font-size:clamp(24px,3vw,34px);margin-bottom:6px;letter-spacing:-.01em}\n.plan .price{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:14px;color:var(--wine-deep)}\n.plan:nth-child(3) .price{color:var(--ivory-dim)}\n.plan .annual{display:block;margin-top:4px;font-size:13px;opacity:.8}\n.plan ul{list-style:none;font-size:15px}\n.plan ul li{padding-left:18px;position:relative;margin-bottom:8px}\n.plan ul li::before{content:\"\";position:absolute;left:0;top:.7em;width:8px;height:1px;background:currentColor}\n.plan .badge{position:absolute;top:24px;right:24px;font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:11px;letter-spacing:.25em;text-transform:uppercase;color:var(--ivory);background:var(--wine);padding:4px 10px}\n\n/* clients / usage */\n.usage{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:30px;margin-top:4vh}\n.usage article{border-left:4px solid var(--wine);padding:6px 18px 18px}\n.usage article h3{font-size:20px;color:var(--wine);margin-bottom:8px}\n.usage article p{font-size:15px;color:var(--ink);opacity:.9}\n.usage .note{margin-top:30px;padding:18px 22px;background:#efe4d2;border-left:4px solid var(--ivory-dim);font-size:15px;color:var(--wine-deep)}\n\n/* faq grouped */\n.faq{background:#efe4d2}\n.faq-group{margin-bottom:5vh}\n.faq-group > h3{font-size:clamp(20px,2.4vw,26px);color:var(--wine);border-bottom:1px solid var(--ivory-dim);padding-bottom:10px;margin-bottom:22px}\n.faq-item{display:grid;grid-template-columns:40px 1fr;gap:14px;margin-bottom:22px;border-left:4px solid var(--wine);padding-left:16px}\n.faq-item .q{font-family:\"Helvetica Neue\",Arial,sans-serif;color:var(--wine);font-weight:bold}\n.faq-item .question{font-weight:bold;margin-bottom:6px;color:var(--ink)}\n.faq-item .answer{font-size:15px;color:var(--ink);opacity:.88}\n\n/* footer text */\n.foot{padding:10vh 6vw 14vh;text-align:center;color:var(--wine-deep);font-size:14px}\n.foot strong{color:var(--wine)}\n\n/* bottom fixed nav */\n.navbar{position:fixed;bottom:0;left:0;right:0;background:var(--wine-deep);color:var(--ivory);display:flex;justify-content:center;flex-wrap:wrap;gap:0;z-index:50;border-top:1px solid var(--wine)}\n.navbar a{color:var(--ivory);text-decoration:none;font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:13px;letter-spacing:.15em;padding:14px 22px;border-right:1px solid rgba(246,237,224,.12);transition:background .2s}\n.navbar a:hover{background:var(--wine)}\n.navbar a:last-child{border-right:none}\n\n@media (max-width:720px){\n  .plan{grid-template-columns:1fr;gap:14px;padding:22px}\n  .plan .no{margin-bottom:6px}\n  .hero .lede{text-align:left;margin-left:0}\n  .navbar a{padding:12px 14px;font-size:12px}\n  body{padding-bottom:120px}\n}\n</style><main>\n<header class=\"hero\">\n  <div class=\"kicker\">网络连接专栏 · 第 09 期</div>\n  <h1>pokong<span class=\"dot\">.</span></h1>\n  <p class=\"lede\">写给那些在凌晨三点仍对着转圈图标发呆的人——一份关于线路、流量与节奏的连接手记。</p>\n</header>\n\n<section id=\"essay\">\n  <div class=\"sec-head\">\n    <h2>编辑手记</h2>\n    <span class=\"meta\">Column / 001</span>\n  </div>\n  <div class=\"essay\">\n    <p>过去几年，我们习惯了把\"上网\"这件事压缩成一个开关：点亮，就连通；熄灭，就断开。但真正用过几条线路之后你会发现，连通和好用之间，隔着一整个深夜的距离。</p>\n    <p>pokong 不打算把这件事讲得很技术。我们更愿意把它写成一页笔记：你在哪台设备上、看了什么内容、延迟是不是让你想把路由器扔出窗外——这些细节才是决定一条线路好坏的真正坐标。</p>\n    <p class=\"pull\">\"我们卖的不是节点，而是一种可预测的连接节奏。\"</p>\n    <p>所以这份页面里没有花哨的承诺。我们整理了三档订阅，按你的设备数量和观看习惯排开，像书架上的三层——底层放日常，中层放挑剔的夜晚，顶层留给一群人共同使用的工作室。</p>\n    <p>如果你愿意，可以从编辑手记往下读，看到套餐、看到使用说明、看到那些我们被反复问起的问题。读完了再决定要不要把 pokong 放进你的网络工具箱。</p>\n  </div>\n</section>\n\n<section id=\"plans\" class=\"plans\">\n  <div class=\"sec-head\">\n    <h2>三档订阅</h2>\n    <span class=\"meta\">Plans / Staged</span>\n  </div>\n  <div class=\"plans-track\">\n    <article class=\"plan\">\n      <div class=\"no\">01</div>\n      <div>\n        <h3>基础版</h3>\n        <div class=\"price\">¥15/月<span class=\"annual\">按年付仅需 ¥150/年</span></div>\n      </div>\n      <ul>\n        <li>每月 100GB 流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n    <article class=\"plan\">\n      <span class=\"badge\">推荐</span>\n      <div class=\"no\">02</div>\n      <div>\n        <h3>旗舰版</h3>\n        <div class=\"price\">¥35/月<span class=\"annual\">按年付仅需 ¥350/年</span></div>\n      </div>\n      <ul>\n        <li>每月 300GB 流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线对游戏加速做了优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n    <article class=\"plan\">\n      <div class=\"no\">03</div>\n      <div>\n        <h3>团队版</h3>\n        <div class=\"price\">¥85/月<span class=\"annual\">按年付仅需 ¥850/年</span></div>\n      </div>\n      <ul>\n        <li>每月 1000GB 流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </div>\n</section>\n\n<section id=\"usage\">\n  <div class=\"sec-head\">\n    <h2>怎么用</h2>\n    <span class=\"meta\">Usage / Notes</span>\n  </div>\n  <div class=\"usage\">\n    <article>\n      <h3>第一步·选档</h3>\n      <p>先数一数你日常要连上网的设备：手机、平板、笔记本、客厅那台老电视。三台以内选基础版，五台上下选旗舰版，超过十台就别硬撑，直接进团队版。</p>\n    </article>\n    <article>\n      <h3>第二步·配置</h3>\n      <p>订阅后你会拿到一份节点列表和一份配置说明。我们没有独立客户端，建议使用主流的通用协议客户端导入配置，跨平台都能跑。</p>\n    </article>\n    <article>\n      <h3>第三步·观察</h3>\n      <p>头三天别急着下定论。白天和深夜的线路表现不一样，工作日和周末也不一样。记一记哪几个时段卡，再来找我们调路由。</p>\n    </article>\n    <article>\n      <h3>第四步·续费</h3>\n      <p>按月付是用来试水的，按年付才是我们建议的节奏。年付会便宜两个月，也省得你每月收到续费提醒时心生烦躁。</p>\n    </article>\n  </div>\n  <p class=\"note\">关于客户端：pokong 当前未提供独立应用程序，请使用支持订阅链接的通用客户端导入节点。我们不伪造下载地址，也不会把\"兼容性\"写成一句空话——具体能否在你的设备上运行，取决于你选用的客户端本身。</p>\n</section>\n\n<section id=\"faq\" class=\"faq\">\n  <div class=\"sec-head\">\n    <h2>常见问题</h2>\n    <span class=\"meta\">FAQ / Grouped</span>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于线路与节点</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q1</div>\n      <div>\n        <div class=\"question\">基础版和旗舰版的节点池有什么区别？</div>\n        <div class=\"answer\">基础版接入的是普通线路节点池，覆盖日常浏览和基础流媒体；旗舰版在同一池基础上增加了 IPLC 专线，对延迟敏感的场景做了优化，同时支持全节点原生流媒体解锁。</div>\n      </div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q2</div>\n      <div>\n        <div class=\"question\">VIP 专属高带宽节点是团队版独享的吗？</div>\n        <div class=\"answer\">是的。团队版提供的 VIP 高带宽节点不与基础版、旗舰版共享，目的是保证多人同时使用时的上行下行余量。</div>\n      </div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于流量与设备</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q3</div>\n      <div>\n        <div class=\"question\">流量用完了会怎样？</div>\n        <div class=\"answer\">当月流量耗尽后，连接会被暂停，直到次月自动恢复。你可以在月中追加流量包，也可以直接升级到更高档位，差价按剩余天数折算。</div>\n      </div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q4</div>\n      <div>\n        <div class=\"question\">设备数量是按同时在线算还是按绑定算？</div>\n        <div class=\"answer\">按同时在线计算。你可以把配置导入十台设备，只要同时在线的不超过套餐上限即可正常使用。</div>\n      </div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于订阅与支持</h3>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q5</div>\n      <div>\n        <div class=\"question\">月付可以随时切换为年付吗？</div>\n        <div class=\"answer\">可以。在当前订阅周期内补差价升级为年付，剩余天数会并入新的年度周期，不会浪费。</div>\n      </div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q6</div>\n      <div>\n        <div class=\"question\">团队版的企业定制路由具体怎么定？</div>\n        <div class=\"answer\">我们会根据你的办公网络环境和访问目标，安排专属客户经理对接，协商一份路由策略。不提供通用的\"一键优化\"，每一份定制都基于实际需求。</div>\n      </div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"q\">Q7</div>\n      <div>\n        <div class=\"question\">支持退款吗？</div>\n        <div class=\"answer\">我们未在公开页面承诺固定退款政策。如有特殊情况，请通过工单说明，我们会按个案处理，不套用冷冰冰的条款搪塞你。</div>\n      </div>\n    </div>\n  </div>\n</section>\n\n<footer class=\"foot\">\n  <p><strong>pokong</strong> · 一份写给网络探索者的连接手记</p>\n  <p>本页面内容由编辑整理，不构成任何官方承诺。使用前请阅读当地法律法规。</p>\n</footer>\n</main>\n\n<nav class=\"navbar\">\n  <a href=\"#essay\">手记</a>\n  <a href=\"#plans\">套餐</a>\n  <a href=\"#usage\">使用</a>\n  <a href=\"#faq\">问答</a>\n</nav>",
+          "hash": "d91a668db01dfe4669c99d9faea61e820d502fce2dcf20d8eeca9bc2a5b81a66",
+          "seo": {
+            "title": "pokong · 给深夜网络探索者的连接笔记",
+            "keywords": "pokong,网络连接,流量套餐,流媒体解锁,专线加速,团队节点",
+            "description": "pokong 是一份写给网络探索者的连接手记。我们用专栏式的笔触记录线路、流量与设备之间的关系，并提供从基础到团队的三档订阅方案，供你按节奏挑选。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "5097",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shmxjzs.cn",
+    "host": "p-3baf9a7c49.shmxjzs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "eae1af1fa0aae3d5e504541bf9c67448c8b7df1f634409022215ddb66ad8f56c",
+    "sitemap.xml": "966e3a6ee27855ddbd7155320b318e41c74e5353185c9bb774f83fdbd15f8de8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "51f10aef36dd82f8f69baabb7e2a913a55acbb0351fccb6e9a167ec2952259d8",
+    "robots.txt": "e24f1cf9b3f533bb5188b0e5690cc4ccd101877b182e7b1df0f63740bd901215",
+    "3b7092c72ffc32bb3318db196de34dfe.txt": "feaadc9403e32c0c4b15f7ec9c31b06a6fb4b705a7a213ba206b21870e2207fe"
+  },
+  "revision": "1c0d8d1c19c2a7c6f943b06a457fa546cb9203f3368ac1631da7233634854be1"
+}
